@@ -1,1 +1,1 @@
-This module helps to generate the multiple names of the output
+This module helps to generate the **multiple names of the output**
