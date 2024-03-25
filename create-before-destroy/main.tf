@@ -13,3 +13,8 @@ resource "aws_instance" "myec2" {
       create_before_destroy = true
     }
 }
+
+
+
+// prevent_destroy ---> will prevent it from destroying when you do terraform destroy
+    // it throws , resoruce cannot be destroyed as it is  prevent by lifecycle prevent_destroy
